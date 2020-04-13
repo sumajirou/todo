@@ -17,8 +17,15 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
-        You do it for her, that is to say you'll do it for him.
+        </a><br />
+        {/* You do it for her, that is to say you'll do it for him. */}
+        <div id="todo">
+          当面やること
+          <ul>
+            <li>Reactでフロントを作る</li>
+            <li>golangでサーバサイドを作る</li>
+          </ul>
+        </div>
       </header>
     </div>
   );
