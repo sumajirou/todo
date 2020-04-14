@@ -24,6 +24,7 @@ function App() {
           <ul>
             <li>Reactでフロントを作る</li>
             <li>golangでサーバサイドを作る</li>
+            <li>EKSを使う</li>
           </ul>
         </div>
       </header>
