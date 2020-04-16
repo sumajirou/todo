@@ -24,7 +24,7 @@ function App() {
           <ul>
             <li>Reactでフロントを作る</li>
             <li>golangでサーバサイドを作る</li>
-            <li>EKSを使う</li>
+            <li>EKSは月8000円かかって高いので、Kubernetesの勉強はGCPのGKEを使って行う</li>
           </ul>
         </div>
       </header>
